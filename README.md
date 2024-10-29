@@ -14,4 +14,4 @@ Este mapa é uma ferramenta de acompanhamento e aprimoramento, onde compartilho 
 - **Competências**: Habilidades em desenvolvimento e metas futuras.
  
 ## Mapa de Carreira
-Você pode acessar o meu mapa de carreira [aqui](https://lysciprianno.github.io/MapaDeCarreira/).
+Você pode acessar o meu mapa de carreira [aqui](https://lysciprianno.github.io/Roadmap/).
